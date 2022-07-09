@@ -151,7 +151,7 @@ mc_mp_withdrawing_exp_losers "5.0"</pre>
 };</pre>
 
 В исходнике снять комментирование, если у вас DM сервер(8 строка)<br>
-<code> //#define CSDM // Раскоментировать, если у вас режим CSDM </code>
+<code> //#define CSDM // Раскоментировать, если у вас режим CSDM </code><br>
 В исходнике устанавливаем ссылку со стилем MOTD (10 строка)<br>
 <code>new const STYLES_URL[] = "http://gfsoul.csmix.ru/style";, где http://gfsoul.csmix.ru/ - ваш сайт</code>
 <br>
