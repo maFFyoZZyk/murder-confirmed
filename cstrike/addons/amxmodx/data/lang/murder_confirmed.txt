@@ -1,0 +1,79 @@
+[ru]
+MC_PREFIX	= ^1[^4MC^1]
+MC_USERTK	= Огонь по своим запрещен
+MC_USERTK1	= НЕ убивай своих или будешь наказан
+MC_USERTK2	= Огонь по союзникам карается смертью
+MC_TOKEN_RETURNED = Жетон возвращен
+MC_MURDER_CONFIRMED = Убийство подтверждено
+MC_SELECT_GAME = \d[\rTOKEN\d] \yВыберите режим игры^n^n
+MC_SELECT_1 = \r1. \wОбычный^n
+MC_SELECT_2 = \r2. \wХардкор^n
+MC_NORMAL = ^4%s ^1выбрал сложность ^3ОБЫЧНЫЙ!
+MC_HARDCORE =  ^4%s ^1выбрал сложность ^3ХАРДКОР!
+MC_NORMAL_RESULT = ^1Голосование ^3состоялось^1! Играем ^3ОБЫЧНЫЙ^1 режим
+MC_HARD_RESULT = ^1Голосование ^4состоялось^1! Играем ^3ХАРДКОР^1 режим
+MC_N_DONT_RESULT = ^1Голосование ^3не состоялось^1! Играем ^3ОБЫЧНЫЙ^1 режим
+MC_H_DONT_RESULT = ^1Голосование ^4состоялось^1! Играем ^3ХАРДКОР^1 режим
+
+MC_MP_MODE	=	Выбор мода. 0 - вызвать меню во время игры. 1 - Обычный режим. 2 - Режим ХАРДКОР.
+MC_CVAR_MP_MAX_SCORE	=	Сколько жетонов нужно собрать для победы
+MC_CVAR_MP_INFINITE	=	Бесконечный раунд
+MC_CVAR_MP_GIVE_C4	=	Запрет выдачи бомбы
+MC_CVAR_MP_INF_AMMO	=	Бесконечное пополнение патронов
+MC_CVAR_MP_FORCERSPAWN	=	Автоматический респавн игрока после смерти
+MC_CVAR_MP_T_WP_PRIMARY	=	Выдача основного оружия террористам
+MC_CVAR_MP_T_WP_SECONDARY	=	Выдача запасного оружия террористам
+MC_CVAR_MP_CT_WP_PRIMARY	=	Выдача основного оружия контр - террористам
+MC_CVAR_MP_CT_WP_SECONDARY	=	Выдача запасного оружия контр - террористам	
+MC_CVAR_MP_SPAWNPROTECTIONTIME = Указывает время защиты игрока после респауна (в секундах).
+MC_CVAR_MP_LIVE_MDL = Через какое время жетон исчезнет
+MC_CVAR_MP_SND_DELETE = Звук при исчезании жетона
+MC_CVAR_MP_LIVE_USER = Сколько ХП у игрока(Режим ХАРДКОР)
+MC_CVAR_MP_BULLETS_DMG = Урон наносимый союзнику 1.0 = урон врагу (Режим ХАРДКОР)
+MC_CVAR_MP_GRENADE_DMG = Урон наносимый союзнику гранатой 1.0 = урон врагу (Режим ХАРДКОР)
+MC_CVAR_MP_OTHER_DMG = Другой урон наносимый союзнику 1.0 = урон врагу (Режим ХАРДКОР)
+MC_CVAR_MP_STIME = Время,через которое будут удаляться item'ы (Оружия),дропнутые игроком	
+MC_CVAR_MP_BONUS_FOR_WINTEAM = Сколько бонусов выдавать победившей команде
+MC_CVAR_MP_EXP_FOR_WINTEAM = Сколько опыта выдавать победившей команде
+MC_CVAR_MP_WITHDRAWING_BONUS_LOSERS = Сколько бонусов забирать у проигравшей команды
+MC_CVAR_MP_WITHDRAWING_EXP_LOSERS = Сколько опыта забирать у проигравшей команды
+
+[en]
+MC_PREFIX	= ^1[^4MC^1]
+MC_USERTK	= Fire on your own is prohibited
+MC_USERTK1	= DON't kill your own or you'll be punished
+MC_USERTK2	= Firing at allies is punishable by death
+MC_TOKEN_RETURNED = Token returned
+MC_MURDER_CONFIRMED = Murder confirmed
+MC_SELECT_GAME = \d[\rTOKEN\d] \ySelect the game mode^n^n
+MC_SELECT_1 = \r1. \wNormal^n
+MC_SELECT_2 = \r2. \wHardcore^n
+MC_NORMAL = ^4%s ^1chose difficulty ^3NORMAL!
+MC_HARDCORE =  ^4%s ^1chose difficulty ^3HARDCORE!
+MC_NORMAL_RESULT = ^1The vote ^3 took place ^1! Playing ^3NORMAL^1 mode
+MC_HARD_RESULT = ^1The vote ^4 took place ^1! Playing ^3HARDCORE^1 mode
+MC_N_DONT_RESULT = ^1The vote ^3 did not take place^1! Playing ^3 NORMAL^1 mode
+MC_H_DONT_RESULT = ^1The vote ^4 took place ^1! Playing ^3 HARDCORE^1 mode
+
+MC_MP_MODE	=	Fashion selection. 0 - open the menu during the game. 1 - Normal mode. 2 - HARDCORE mode.
+MC_CVAR_MP_MAX_SCORE	=	How many tokens do you need to collect to win
+MC_CVAR_MP_INFINITE	=	Endless Round
+MC_CVAR_MP_GIVE_C4	=	Banning the issuance of bombs
+MC_CVAR_MP_INF_AMMO	=	Endless ammo replenishment
+MC_CVAR_MP_FORCERSPAWN	=	Automatic respawn of the player after death
+MC_CVAR_MP_T_WP_PRIMARY	=	Issuing basic weapons to terrorists
+MC_CVAR_MP_T_WP_SECONDARY	=	Issuance of spare weapons to terrorists
+MC_CVAR_MP_CT_WP_PRIMARY	=	Issuing basic weapons to counter - terrorists
+MC_CVAR_MP_CT_WP_SECONDARY	=	Issuance of spare weapons to counter - terrorists
+MC_CVAR_MP_SPAWNPROTECTIONTIME = Indicates the player's defense time after respawn (in seconds).
+MC_CVAR_MP_LIVE_MDL = After what time will the token disappear
+MC_CVAR_MP_SND_DELETE = Sound when the token disappears
+MC_CVAR_MP_LIVE_USER = How many HP does the player have (HARDCORE mode)
+MC_CVAR_MP_BULLETS_DMG = Damage inflicted on an ally 1.0 = damage to an enemy (HARDCORE mode)
+MC_CVAR_MP_GRENADE_DMG = Damage inflicted on an ally by a grenade 1.0 = damage to the enemy (HARDCORE mode)
+MC_CVAR_MP_OTHER_DMG = Other damage inflicted on an ally 1.0 = damage to an enemy (HARDCORE mode)
+MC_CVAR_MP_STIME = The time after which the items (Weapons) dropped by the player will be deleted
+MC_CVAR_MP_BONUS_FOR_WINTEAM = How many bonuses to give to the winning team
+MC_CVAR_MP_EXP_FOR_WINTEAM = How much experience should I give to the winning team
+MC_CVAR_MP_WITHDRAWING_BONUS_LOSERS = How many bonuses to take from the losing team
+MC_CVAR_MP_WITHDRAWING_EXP_LOSERS = How much experience to take from the losing team
